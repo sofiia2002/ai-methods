@@ -4,7 +4,7 @@
 
 W ramach danego repozytorium znajdują się rozwiązania określonych problemów z dizedziny data science, są tutaj rozwiązania zaprojektowane na podstawie penych metodyk z dziedziny uczenia maszynowego, przeszukiwania i optymalizacji, deep learning oraz dziedzin pokrewnych. 
 
-Wszystkie zaproponowane rozwiązania zostały zaimplementowane samodzielnie (prócz rozwiązania dotyczącego sieci neuronowych), przy pomocy ogólnodostępnych materiałów oraz kilku książek dotyczących metod wykorzystywanych w ramach metod sztucznej inteligencji. Wszystkie rozwiązania są zaimplementowane w języku **Python** oraz przy wykorzystaniu dodatkowych bibliotek, takich jak **numpy**, **matplotlib**, **seaborn**, **pandas** i **scikt-learn*.
+Wszystkie zaproponowane rozwiązania zostały zaimplementowane samodzielnie (prócz rozwiązania dotyczącego sieci neuronowych), przy pomocy ogólnodostępnych materiałów oraz kilku książek dotyczących metod wykorzystywanych w ramach metod sztucznej inteligencji. Wszystkie rozwiązania są zaimplementowane w języku **Python** oraz przy wykorzystaniu dodatkowych bibliotek, takich jak **numpy**, **matplotlib**, **seaborn**, **pandas** i **scikt-learn**.
 
 ## Uporządkowanie rozwiązań
 
